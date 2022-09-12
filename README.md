@@ -9,6 +9,7 @@ Projeto feito em ReactJS + Typescript, visando obter uma lista repositórios que
 - Autenticação via token JWT
 - Persistência de token
 - Criptografia de Senha
+- Comunicação entre componentes
 
 ## Instalação
 
