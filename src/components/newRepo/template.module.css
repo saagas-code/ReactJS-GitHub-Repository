@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+
+.createREPO input {
+    width: 250px;
+}
+
+.createREPO span {
+    font-size: 20px;
+}
+
